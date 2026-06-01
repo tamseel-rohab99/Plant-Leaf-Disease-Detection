@@ -1,0 +1,7 @@
+## Dataset
+
+Due to the large size of the dataset, it is not included in this repository.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
